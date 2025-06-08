@@ -16,7 +16,7 @@ The system leverages:
 The global hotel market exceeds **$1.3 trillion**, with increasing adoption of **dynamic pricing** by major hotel chains and OTAs.  
 Building a flexible, API-first, ML-driven pricing engine represents a major opportunity both for industry players and as a standalone service offering.
 
-Inspired by the vision of companies like Nuitée ("trading floor for travel"), this project demonstrates how such a system can be designed and implemented.
+Inspired by companies building real-time, data-driven marketplaces, this project demonstrates how such a system can be designed and implemented for the travel and hospitality sector.
 
 ---
 
