@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Data files - do not commit raw or processed data to GitHub
+data/raw/
+data/processed/
+
+# Python virtual environment
+.env
+.venv/
+
+# System files (Windows/macOS)
+.DS_Store
+Thumbs.db
